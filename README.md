@@ -18,7 +18,7 @@ O plugin para Chrome, 'Image 2 Text Converter', torna fácil converter imagens e
 5. crie um arquivo chamado .env na raiz do projeto e insira seu KEY: 
 
 » VITE_API_KEY=xxxxxxxxxxxxxx SEU KEY xxxxxxxxxxxxxxx
-nota: Sua chave deve ficar após o nome da variável"VITE_API_KEY=" e não deve conter aspas na sua chave.
+» nota: Sua chave deve ficar após o nome da variável"VITE_API_KEY=" e não deve conter aspas na sua chave.
 
 6. Executar o servidor de desenvolvimento: npm run dev
 7. Teste o plugin localmente arrastando uma imagem local para o ponto indicado no aplicativo.
