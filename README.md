@@ -1,6 +1,8 @@
 # AI Image 2 Text
 
-https://i.postimg.cc/VN5cLjWc/Frame-1.png
+---
+![](https://i.postimg.cc/VN5cLjWc/Frame-1.png)
+---
 
 
 O plugin para Chrome, 'Image 2 Text Converter', torna fácil converter imagens em texto. Com alguns cliques, você pode digitalizar documentos, capturar informações de fotos e simplificar a transcrição de textos. É rápido, intuitivo e eficaz - tudo o que você precisa para transformar imagens em texto rapidamente
@@ -31,5 +33,6 @@ nota: Sua chave deve ficar após o nome da variável"VITE_API_KEY=" e não deve 
 5. Verifique a instalação: A extensão está instalada e pronta para ser usada.
 
 #####
-
-https://i.postimg.cc/D099xD9v/Group-2.png
+---
+![](https://i.postimg.cc/D099xD9v/Group-2.png)
+---
