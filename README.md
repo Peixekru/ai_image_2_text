@@ -34,5 +34,5 @@ nota: Sua chave deve ficar após o nome da variável"VITE_API_KEY=" e não deve 
 
 #####
 ---
-![](https://i.postimg.cc/D099xD9v/Group-2.png)
+![](https://i.postimg.cc/9cbR0CYx/Desktop-4.png)
 ---
