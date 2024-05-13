@@ -1,7 +1,7 @@
 # AI Image 2 Text
 
 ---
-![](https://i.postimg.cc/VN5cLjWc/Frame-1.png)
+![](https://github.com/Peixekru/ai_image_2_text/blob/main/_md/Frame%201.png)
 ---
 
 
@@ -17,7 +17,7 @@ O plugin para Chrome, 'Image 2 Text Converter', torna fácil converter imagens e
 4. Instalar as dependências: npm install
 5. crie um arquivo chamado .env na raiz do projeto e insira seu KEY: 
 
-# VITE_API_KEY=xxxxxxxxxxxxxx SEU KEY xxxxxxxxxxxxxxx
+» VITE_API_KEY=xxxxxxxxxxxxxx SEU KEY xxxxxxxxxxxxxxx
 nota: Sua chave deve ficar após o nome da variável"VITE_API_KEY=" e não deve conter aspas na sua chave.
 
 6. Executar o servidor de desenvolvimento: npm run dev
